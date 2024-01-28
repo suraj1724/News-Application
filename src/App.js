@@ -10,7 +10,7 @@ function App() {
     <Navbar/>
     <MarqueeComponent />
     <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Hello world! hello
     </h1>
     </div>
   );
